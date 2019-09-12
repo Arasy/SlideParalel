@@ -1,0 +1,2 @@
+# SlideParalel
+Slide Komputasi Paralel
